@@ -1,0 +1,15 @@
+total 52
+-rw-rw-r-- 1 oluai oluai  110 Jun 27 11:43 '
+drwxrwxr-x 2 oluai oluai 4096 Jun 27 11:52 .
+drwxrwxr-x 6 oluai oluai 4096 Jun 27 11:11 ..
+-rwxrw-r-- 1 oluai oluai   31 Jun 27 11:08 0-hello_world
+-rwxrw-r-- 1 oluai oluai   28 Jun 27 11:22 1-confused_smiley
+-rwxrw-r-- 1 oluai oluai   28 Jun 27 11:36 2-hellofile
+-rwxrw-r-- 1 oluai oluai   38 Jun 27 11:27 3-twofiles
+-rwxrw-r-- 1 oluai oluai   36 Jun 27 11:31 4-lastlines
+-rwxrw-r-- 1 oluai oluai   35 Jun 27 11:34 5-firstlines
+-rwxrw-r-- 1 oluai oluai   40 Jun 27 11:40 6-third_line
+-rwxrw-r-- 1 oluai oluai   99 Jun 27 11:47 7-file
+-rwxrw-r-- 1 oluai oluai   36 Jun 27 11:51 8-cwd_state
+-rw-rw-r-- 1 oluai oluai    0 Jun 27 11:57 ls_cwd_content
+-rw-rw-r-- 1 oluai oluai   14 Jun 27 11:18 README.md
